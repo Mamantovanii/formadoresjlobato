@@ -2,6 +2,9 @@
     margin: 0%;
     padding: 0%;
 }
+header{
+    border-color: black;
+}
 h1{
     text-align: center;
     font-size: large;
