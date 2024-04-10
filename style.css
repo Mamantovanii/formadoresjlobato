@@ -4,6 +4,7 @@
 }
 header{
     border-color: black;
+    border-radius: 2%;
     display: flex;
 }
 h1{
