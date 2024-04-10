@@ -4,6 +4,7 @@
 }
 header{
     border-color: black;
+    display: flex;
 }
 h1{
     text-align: center;
