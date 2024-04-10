@@ -9,6 +9,9 @@ header{
 }
 ul{
     color: azure;
+   
+}
+li{
     display: inline-block;
 }
 h1{
