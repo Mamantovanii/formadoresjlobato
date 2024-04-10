@@ -9,6 +9,7 @@ header{
 }
 ul{
     color: azure;
+    display: inline-block;
 }
 h1{
     text-align: center;
