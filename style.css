@@ -9,8 +9,9 @@ ul{
    
 }
 li{
-    display: inline-block;
+    display: list-item;
     margin: 20px;
+
 }
 h1{
     text-align: center;
