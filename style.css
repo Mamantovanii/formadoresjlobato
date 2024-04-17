@@ -9,7 +9,7 @@ ul{
    
 }
 li{
-    display: list-item;
+    display: inline-flex;
     margin-left: 100%;
     font-size: 10px;
 }
