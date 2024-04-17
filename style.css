@@ -26,14 +26,11 @@ p{
     width: 10%;
     height: 20%;
 }
-.rosa{
-    width: 25%;
-    height: 30%;
-}
 .preto{
     width: 50%;
     left: 25%;
     right: 75%;
+    margin-top: 10%;
 }
 body{
     background-color: rgb(255, 239, 254);
