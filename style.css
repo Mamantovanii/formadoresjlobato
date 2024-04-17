@@ -31,6 +31,5 @@ p{
     margin-left: 25%;
 }
 section{
-    background-image: url(images.jpeg);
-    padding: 0%;
+    background-color: rgb(255, 255, 255);
 }
